@@ -1,0 +1,12 @@
+{
+    "title": "Minecraft",
+    "url": "https://play.mc.js.cool/1.8wasm/",
+    "width": 1100,
+    "height": 800,
+    "debug":false,
+    "build":{
+        "name":"Minecraft",
+        "icon": "./m.ico",
+        "onefile":true
+    }
+}
